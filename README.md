@@ -163,7 +163,7 @@ This repository is created to keep track of latest topics in Generative AI.
 * [👍🏼👍🏼👍🏼] [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
 * [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
 * [microsoft/LoRA](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
-* [👍🏼👍🏼👍🏼] [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): List of tools and project with the awesome LangChain framework
+* [👍🏼👍🏼👍🏼] [kyrolabs/langchain](https://github.com/kyrolabs/awesome-langchain): List of tools and project with the LangChain framework
 * [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models?utm_source=bensbites&utm_medium=newsletter&utm_campaign=stability-ai-release-their-llm) 
 * [Free Dolly | The Databricks Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm): open source, instruction-following LLM, fine-tuned on a human-generated instruction dataset licensed for research and commercial use
 * [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852): paper with "a comprehensive survey of ChatGPT and GPT-4 and their prospective applications across diverse domains"
@@ -243,8 +243,8 @@ This repository is created to keep track of latest topics in Generative AI.
 
 * [Advanced Guide to ChatGPT](https://aaditsh.notion.site/aaditsh/Advanced-Guide-to-ChatGPT-b8d5901b8bba44f580bb0c0835644567): guide by Neatprompts.com
 * [👍🏼] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
-* [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
-* [👍🏼👍🏼👍🏼] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
+* [acheong08's list / ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
+* [👍🏼👍🏼👍🏼] [ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
 * [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT 
 
 ### GPT-3
@@ -295,7 +295,7 @@ This repository is created to keep track of latest topics in Generative AI.
 
 * [timqian/openprompt.co](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 * [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+* [f/chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
 * [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
 * [How to write an effective GPT-3 prompt | Zapier](https://zapier.com/blog/gpt-3-prompt/): a list of 6 GPT-3 tips for getting the desired output
 * [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting): e-book by Fatih Kadir Akın ([@fkadev](http://twitter.com/fkadev))
@@ -409,7 +409,7 @@ This repository is created to keep track of latest topics in Generative AI.
 
 ### References Collection about Stable Diffusion
 
-* [GitHub - awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
+* [GitHub - stable-diffusion/stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
 * [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/?utm_source=share&utm_medium=web2x&context=3): a general update on all the "most important" news/repos available
 * [List of Stable Diffusion systems | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
 * [Stable Diffusion Akashic Records | Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic): A compendium of information regarding Stable Diffusion (SD)
@@ -704,7 +704,7 @@ This repository is created to keep track of latest topics in Generative AI.
 ### Generative Adversarial Networks (GANs)
 
 * [👍🏼👍🏼👍🏼] [Drag Your GAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/): "Interactive Point-based Manipulation on the Generative Image Manifold"
-* [👍🏼] [weihaox/awesome-gan-inversion](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
+* [👍🏼] [weihaox/gan-inversion](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 * [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 * [Latent Space Exploration with StyleGAN2](https://amarsaini.github.io/Epoching-Blog/jupyter/2020/08/10/Latent-Space-Exploration-with-StyleGAN2.html)
 * [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433
@@ -725,7 +725,7 @@ This repository is created to keep track of latest topics in Generative AI.
 
 ## Collections
 
-* [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
+* [The Generative AI Landscape](https://ai-collection.org/): "a collection of generative AI applications"
 * [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
 * [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 * [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
@@ -833,7 +833,7 @@ This repository is created to keep track of latest topics in Generative AI.
 * [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
 * [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
 * [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
-* [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
+* [KangweiiLiu/Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 * [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 * [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
 * [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
@@ -915,7 +915,7 @@ This repository is created to keep track of latest topics in Generative AI.
 * [35 Artists Using AI With Under 1000 Followers That You Need To Follow Today / Twitter](https://twitter.com/infiniteyay/status/1583465675166609408?s=43&t=XvooFiMyC-YPv0i98HmjVQ) 
 * [Computer Vision Art Gallery : CVPR 2021](https://computervisionart.com/): artworks dealing with computer vision technologies
 * [Confluence](https://deviparikh.github.io/confluence/): a generative art project by Devi Parikh on BrainDrops.
-* [Learning to See – Memo Akten | Mehmet Selim Akten | The Mega Super Awesome Visuals Company](http://www.memo.tv/works/learning-to-see/)
+* [Learning to See – Memo Akten | Mehmet Selim Akten | The Visuals Company](http://www.memo.tv/works/learning-to-see/)
 * [Alien Dreams: An Emerging Art Scene - ML@B Blog](https://ml.berkeley.edu/blog/posts/clip-art/)
 * [Neural Zoo | Sofia Crespo](https://neuralzoo.com/)
 * [KRЯRL DЯAWINGS: Runway ML -- 3rd "Model" (based on long poses)](http://krrrl.blogspot.com/2020/08/runway-ml-3rd-model-based-on-long-poses.html)
@@ -937,16 +937,15 @@ This repository is created to keep track of latest topics in Generative AI.
 
 ## Related Lists
 
-* [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): list of tools and project with the LangChain framework
-* [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
-* [👍🏼] [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
-* [👍🏼👍🏼👍🏼] [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
-* [👍🏼👍🏼👍🏼] [jonathandinu/awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
-* [margaretmz/awesome-ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
-* [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
-* [chaosreactor/awesome-generative-ai](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
-* [👍🏼] [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
-* [justinpinkney/awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
+* [kyrolabs/langchain](https://github.com/kyrolabs/awesome-langchain): list of tools and project with the LangChain framework
+* [KangweiiLiu/Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
+* [👍🏼] [amrzv/colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
+* [👍🏼👍🏼👍🏼] [jonathandinu/ai-art](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+* [margaretmz/ai-art-design](https://github.com/margaretmz/awesome-ai-art-design): An list: AI for art and design.
+* [toxtli/machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
+* [chaosreactor/generative-ai](https://github.com/chaosreactor/awesome-generative-ai): list of low- and no-code generative AI resources
+* [👍🏼] [altryne/ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
+* [justinpinkney/pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
 
 ## Miscellaneous
 
