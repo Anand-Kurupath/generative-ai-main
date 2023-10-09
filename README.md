@@ -73,15 +73,15 @@
 
 ## Repository Introduction
 
-A list of Generative AI resources. This is a collection of references in the field of Generative AI that contains various sources such as academic papers, technical articles, online courses, tutorials, and software.
+A list of Generative AI resources that contains various sources such as academic articles, courses, tutorials, and models.
 
 ### Structure:
 
-1. **Sections**: Each section represents a different Generative AI-related category (e.g., LLMs, prompt engineering, image synthesis, educational resources, etc.). 
+1. **Sections**: Each section is a different Generative AI-related category (e.g., LLMs, prompt engineering etc.). 
 
-2. **References within sections**: Inside each section, references are listed in reverse chronological order, with the most recent one at the top. 
+2. **References within sections**: Inside each section, references are listed in reverse chronological order, with the most recent one on top. 
 
-This repository is designed to keep a track of latest topics in Generative AI.
+This repository is created to keep track of latest topics in Generative AI.
 
 ## The Generative AI Area: history, maps, and definitions
 
