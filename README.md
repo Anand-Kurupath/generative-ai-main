@@ -64,7 +64,7 @@
     - [Interesting GitHub Repositories](#interesting-github-repositories)
     - [Artists and Artworks](#artists-and-artworks)
     - [Galleries](#galleries)
-  - [Related Awesome Lists](#related-awesome-lists)
+  - [Related Lists](#related-lists)
   - [Miscellaneous](#miscellaneous)
     - [Bio experiments](#bio-experiments)
     - [Improving Google Colab experience](#improving-google-colab-experience)
@@ -935,9 +935,9 @@ This repository is created to keep track of latest topics in Generative AI.
 * [Ganvas Studio - Neural Network Paintings](https://ganvas.studio/)
 * [Syn Feather Sweater / STRELITZIA – HATRA E STORE](https://hatroid.com/collections/synthetic-feather/products/syn-feather-sweater-strelitzia)
 
-## Related Awesome Lists
+## Related Lists
 
-* [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
+* [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): list of tools and project with the LangChain framework
 * [KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 * [👍🏼] [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 * [👍🏼👍🏼👍🏼] [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
