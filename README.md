@@ -124,7 +124,7 @@ This repository is designed to keep a track of latest topics in Generative AI.
 
 ## Generative AI Processes and Artifacts
 
-![alt text](https://github.com/Anand-Kurupath/generative-ai-main/blob/master/genaielements.png,raw=true)
+<img src="https://github.com/Anand-Kurupath/generative-ai-main/blob/master/genaielements.png" width=75% height=75%>
 
 ## Generative AI Tools Directories
 
