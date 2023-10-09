@@ -67,7 +67,6 @@
   - [Related Awesome Lists](#related-awesome-lists)
   - [Miscellaneous](#miscellaneous)
     - [Bio experiments](#bio-experiments)
-    - [Jobs in Generative AI](#jobs-in-generative-ai)
     - [Improving Google Colab experience](#improving-google-colab-experience)
     - [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
 
@@ -954,10 +953,6 @@ This repository is created to keep track of latest topics in Generative AI.
 ### Bio experiments
 
 * [fMRI-to-image](https://twitter.com/danberridge/status/1631489991435243520): tweet by [danberridge](https://twitter.com/danberridge) "The 'presented images' were shown to a group of humans. The 'reconstructed images' were the result of an fMRI output to Stable Diffusion. In other words, Stable Diffusion literally read people's minds."
-
-### Jobs in Generative AI
-
-* [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
 
 ### Improving Google Colab experience
 
